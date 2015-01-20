@@ -1,0 +1,9 @@
+C:\Projects\JcDecaux\FTPDownloader\FTPDownloader\bin\Debug\FTPDownloader.exe.config
+C:\Projects\JcDecaux\FTPDownloader\FTPDownloader\obj\Debug\FTPDownloader.csprojResolveAssemblyReference.cache
+C:\Projects\JcDecaux\FTPDownloader\FTPDownloader\bin\Debug\FTPDownloader.exe
+C:\Projects\JcDecaux\FTPDownloader\FTPDownloader\bin\Debug\FTPDownloader.pdb
+C:\Projects\JcDecaux\FTPDownloader\FTPDownloader\obj\Debug\FTPDownloader.exe
+C:\Projects\JcDecaux\FTPDownloader\FTPDownloader\obj\Debug\FTPDownloader.pdb
+C:\Projects\JcDecaux\FTPDownloader\FTPDownloader\bin\Debug\NLog.config
+C:\Projects\JcDecaux\FTPDownloader\FTPDownloader\bin\Debug\NLog.dll
+C:\Projects\JcDecaux\FTPDownloader\FTPDownloader\bin\Debug\NLog.xml
