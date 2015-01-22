@@ -30,8 +30,17 @@ namespace FTPDownloader
         static void Main(string[] args)
         {
             logger.Info("Starting Periodic FTP Downloader");
+
+            Console.WriteLine("JcDecaux FTP File Downloader");
+            Console.WriteLine("Ver 1.0 - 22 Jan 2015");
+            Console.WriteLine("asaieed@fractal.ae - Fractal Systems");
+            Console.WriteLine("");
+            Console.WriteLine("WARNING:");
+            Console.WriteLine("Closing this window will stop the automatic download of new content.");
+
             while (true)
             {
+                logger.Trace("Reading configuration.");
                 ftpServerIP = System.Configuration.ConfigurationSettings.AppSettings["ftpServerUri"].ToString();
                 ftpUserID = System.Configuration.ConfigurationSettings.AppSettings["ftpUserID"].ToString();
                 ftpPassword = System.Configuration.ConfigurationSettings.AppSettings["ftpPass"].ToString();

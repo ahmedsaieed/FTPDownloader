@@ -1,0 +1,8 @@
+time,message,logger,level
+2015-01-20 18:32:36.0688,Starting Periodic FTP Downloader,FTPDownloader.Program,Info
+2015-01-20 18:32:44.3423,Downloading MoneySwitcher.exe,FTPDownloader.Program,Info
+2015-01-20 18:32:48.3815,Downloading npdck.exe,FTPDownloader.Program,Info
+2015-01-20 18:33:12.5829,Sleeping...,FTPDownloader.Program,Info
+2015-01-22 12:23:30.6074,Starting Periodic FTP Downloader,FTPDownloader.Program,Info
+2015-01-22 12:23:34.5507,Downloading MoneySwitcher.exe,FTPDownloader.Program,Info
+2015-01-22 12:23:38.7279,Downloading npdck.exe,FTPDownloader.Program,Info

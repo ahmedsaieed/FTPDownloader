@@ -1,0 +1,23 @@
+time,message,logger,level
+2015-01-20 18:32:36.0688,Starting Periodic FTP Downloader,FTPDownloader.Program,Info
+2015-01-20 18:32:44.3423,Downloading MoneySwitcher.exe,FTPDownloader.Program,Info
+2015-01-20 18:32:44.3783,Connecting to ftp://ftp.microsoft.com/KBHelp/MoneySwitcher.exe,FTPDownloader.Program,Trace
+2015-01-20 18:32:46.9594,File found: MoneySwitcher.exe,FTPDownloader.Program,Trace
+2015-01-20 18:32:46.9614,Downloading to local\MoneySwitcher.exe,FTPDownloader.Program,Trace
+2015-01-20 18:32:48.3805,Download complete!,FTPDownloader.Program,Trace
+2015-01-20 18:32:48.3815,Downloading npdck.exe,FTPDownloader.Program,Info
+2015-01-20 18:32:48.3815,Connecting to ftp://ftp.microsoft.com/KBHelp/npdck.exe,FTPDownloader.Program,Trace
+2015-01-20 18:32:50.8366,File found: npdck.exe,FTPDownloader.Program,Trace
+2015-01-20 18:32:50.9287,Downloading to local\npdck.exe,FTPDownloader.Program,Trace
+2015-01-20 18:33:12.5829,Download complete!,FTPDownloader.Program,Trace
+2015-01-20 18:33:12.5829,Next FTP server poll after60000millsecs,FTPDownloader.Program,Trace
+2015-01-20 18:33:12.5829,Sleeping...,FTPDownloader.Program,Info
+2015-01-22 12:23:30.6074,Starting Periodic FTP Downloader,FTPDownloader.Program,Info
+2015-01-22 12:23:30.6434,Reading configuration.,FTPDownloader.Program,Trace
+2015-01-22 12:23:34.5507,Downloading MoneySwitcher.exe,FTPDownloader.Program,Info
+2015-01-22 12:23:34.6937,Connecting to ftp://ftp.microsoft.com/KBHelp/MoneySwitcher.exe,FTPDownloader.Program,Trace
+2015-01-22 12:23:37.2018,File found: MoneySwitcher.exe,FTPDownloader.Program,Trace
+2015-01-22 12:23:37.2018,Downloading to local\MoneySwitcher.exe,FTPDownloader.Program,Trace
+2015-01-22 12:23:38.7279,Download complete!,FTPDownloader.Program,Trace
+2015-01-22 12:23:38.7279,Downloading npdck.exe,FTPDownloader.Program,Info
+2015-01-22 12:23:38.7279,Connecting to ftp://ftp.microsoft.com/KBHelp/npdck.exe,FTPDownloader.Program,Trace
